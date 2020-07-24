@@ -1,5 +1,5 @@
 ---
-title: Topic 1
+title: Couleur
 taxonomy:
     category: docs
 process:

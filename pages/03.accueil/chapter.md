@@ -1,5 +1,5 @@
 ---
-title: Intermediate
+title: Page d'accueil
 taxonomy:
     category: docs
 ---
