@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Démarrer
 taxonomy:
     category: docs
 ---
