@@ -1,5 +1,5 @@
 ---
-title: Requirements
+title: Interface d'administration
 taxonomy:
     category: docs
 ---

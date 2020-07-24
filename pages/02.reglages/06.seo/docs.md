@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: SEO
 taxonomy:
     category: docs
 ---
