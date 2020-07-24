@@ -8,4 +8,4 @@ taxonomy:
 
 # Basics
 
-Discover the **basic** principlesr
+Discover the **basic** principle
