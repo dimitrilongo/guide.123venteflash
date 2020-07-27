@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Catalogue
 taxonomy:
     category: docs
 ---
