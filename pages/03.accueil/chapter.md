@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 3
+### Chapitre 3
 
 # Page d'accueil
 

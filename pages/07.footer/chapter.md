@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 7
+### Chapitre 7
 
-# IntermePied de pagediate
+# Pied de pagediate
 
 Delve deeper into more **complex** topics

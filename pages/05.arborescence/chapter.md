@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 5
+### Chapitre 5
 
 # Menu
 

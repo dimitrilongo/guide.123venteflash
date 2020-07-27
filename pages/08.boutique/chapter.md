@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 8
+### Chapitre 8
 
 # Boutique
 

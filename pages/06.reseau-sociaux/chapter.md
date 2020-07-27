@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 6
+### Chapitre 6
 
 # Réseaux Sociaux
 

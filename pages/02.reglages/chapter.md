@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 2
+### Chapitre 2
 
 # Réglages généraux de la boutique
 
