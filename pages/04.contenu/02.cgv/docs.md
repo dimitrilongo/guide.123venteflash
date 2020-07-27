@@ -1,5 +1,5 @@
 ---
-title: Topic 2
+title: CGV
 taxonomy:
     category: docs
 ---

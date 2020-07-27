@@ -1,5 +1,5 @@
 ---
-title: Intermediate
+title: Contenu
 taxonomy:
     category: docs
 ---

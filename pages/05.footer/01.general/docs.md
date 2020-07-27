@@ -1,5 +1,5 @@
 ---
-title: Topic 1
+title: Réglages pied de page
 taxonomy:
     category: docs
 process:

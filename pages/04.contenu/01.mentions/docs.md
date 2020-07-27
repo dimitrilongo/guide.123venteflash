@@ -1,5 +1,5 @@
 ---
-title: Réglafes pied de page
+title: Mentions Légales
 taxonomy:
     category: docs
 process:
