@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Commandes
 taxonomy:
     category: docs
 ---
