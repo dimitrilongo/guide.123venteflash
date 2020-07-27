@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 2
+### Chapter 6
 
-# Intermediate
+# Réseaux Sociaux
 
 Delve deeper into more **complex** topics

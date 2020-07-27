@@ -1,11 +1,11 @@
 ---
-title: Réglages généraux de la boutique
+title: Réglages généraux
 taxonomy:
     category: docs
 ---
 
-### Chapter 1
+### Chapter 2
 
-# Basics
+# Réglages généraux de la boutique
 
 Discover the **basic** principle

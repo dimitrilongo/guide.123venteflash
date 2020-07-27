@@ -1,11 +1,11 @@
 ---
-title: Basics
+title: Boutique
 taxonomy:
     category: docs
 ---
 
-### Chapter 1
+### Chapter 8
 
-# Basics
+# Boutique
 
 Discover the **basic** principle

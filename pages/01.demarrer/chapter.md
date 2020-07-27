@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 1
+### Chapitre 1
 
-# Basics
+# Démarrer
 
 Discover the **basic** principle

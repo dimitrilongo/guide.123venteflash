@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### Chapter 2
+### Chapter 4
 
-# Intermediate
+# Contenu
 
 Delve deeper into more **complex** topics
