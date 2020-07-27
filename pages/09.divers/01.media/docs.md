@@ -1,5 +1,5 @@
 ---
-title: Catalogue
+title: Média
 taxonomy:
     category: docs
 ---
