@@ -1,5 +1,5 @@
 ---
-title: Intermediate
+title: Pied de page
 taxonomy:
     category: docs
 ---

@@ -1,5 +1,5 @@
 ---
-title: Reassurance
+title: Réassurance
 taxonomy:
     category: docs
 ---
