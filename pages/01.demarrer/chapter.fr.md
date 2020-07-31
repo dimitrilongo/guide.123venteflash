@@ -8,4 +8,4 @@ taxonomy:
 
 # Démarrer
 
-Discover the **basic** principle
+Bienvenue dans votre générateur de boutique 123 Vente Flash
