@@ -1,5 +1,5 @@
 ---
-title: Réseaux Sociaux
+title: 'Réseaux Sociaux'
 taxonomy:
     category: docs
 ---
