@@ -1,5 +1,5 @@
 ---
-title: 'Réglages généraux 2'
+title: Produits
 taxonomy:
     category:
         - docs
