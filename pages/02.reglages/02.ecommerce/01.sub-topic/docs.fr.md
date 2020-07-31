@@ -1,7 +1,8 @@
 ---
-title: Sub-Topic
+title: 'Réglages généraux'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Lorem markdownum penna; aras cetera revocatus quidem frigus in. Ut natum
