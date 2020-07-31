@@ -1,7 +1,8 @@
 ---
-title: 'Paypal 2'
+title: 'Options avancées'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Lorem markdownum penna; aras cetera revocatus quidem frigus in. Ut natum
