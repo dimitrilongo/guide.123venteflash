@@ -1,5 +1,5 @@
 ---
-title: Réglages généraux
+title: 'Réglages généraux'
 taxonomy:
     category: docs
 ---
