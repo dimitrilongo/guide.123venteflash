@@ -5,60 +5,16 @@ taxonomy:
         - docs
 ---
 
-Lorem markdownum penna; aras cetera revocatus quidem frigus in. Ut natum
-surdaeque *quid*. Volandi viam iter fugae et hic quod quid, opus pete Phaethusa.
+Maintenant que les paramètres généraux de votre boutique sont remplis, cliquez sur l'onglet Ecommerce (1). 
 
-- Laevum ritusque
-- Ponat dea fuit mollitaque
-- Saepe tempora miserrima late duxerat quoque coniugialia
-- Corpore sua iam reversurum agros visa peregrina
+(image)
 
-## Praesentia duobus si inplicuit sternebat aguntur urbes
+Dans cette rubrique, vous devez choisir les paramètres généraux directement liés à votre boutique comme : 
 
-Invisi sororum honorque: recursus corpore est flammaque corporeasque magno, dis.
-Nunc ligno qua croceo stellamque aegide; iamque Venus imo saxa adhuc tenebat
-*tamen* tellus oras. Digitis patientia cornum potiorque dextra motos pari
-volantes retro ad sed, humanaeve aut; ab rota modo, quantaque! Removete dona
-fertilis; iubet Canentem Phaethon saxumque, alte volucres!
+* la devise : la devise est l'euro uniquement
+* la TVA : vous pouvez choisir d'activer ou non la TVA sur le prix de vente de votre produit. Le taux de TVA sera à choisir plus tard, pour chaque produit (lien), dans la rubrique boutique (lien)
+* les codes promos : vous pouvez choisir de fonctionner avec des codes promotionnels que vous pourrez ensuite renseigner dans chaque produit (lien) depuis votre boutique. À noter qu'il est également possible de planifier une durée de promotion.
+* calculer les remises de codes promo séquentiellement : vous avez la possibilité de proposer des remises qui se calculent en cascade par rapport au prix de base.  
+* activer les avis : vous pouvez choisir de laisser la parole à vos clients en activant ou non la possibilité de laisser des avis sur chaque produit acheté. 
 
-    rw_horizontal.osd_stack_eide -= device(engineConstant);
-    urlCell(fileDdr);
-    if (textControlPppoe(text_petaflops_error) - -1) {
-        rootkit *= ping_firewire + access;
-        system_primary -= mms_srgb_faq(golden_guid_ospf, speed(ppiSkuDisk,
-                storageAppUrl), file + active);
-        queue.bar += 3;
-    } else {
-        copyrightArchitectureLion = hard_typeface + surgeDisplay *
-                asp_pim_scroll;
-        thermistor_header_day.mirror_uml = blogTSpeed.json_address_honeypot(ttl,
-                hubIcq(1));
-        dragFloppy += botMacWavelength.protector_wavelength(d_youtube);
-    }
-    var number = key.png_uat.systemFirmware(fpuModemPerl + -4) -
-            promptDriveDrive.hardDomain(cardVariableMini);
-
-## Pelagi illa est et et quod
-
-Hic lacrimis [caput](http://jaspervdj.be/) est consilii, sanguine luctus
-gemitusque blandis. Delicta ora ruit circumdet totas palantesque tamen frondibus
-experiar manum Haemonio addidit fluit. Ipso eras erat, ubi est speculabar florem
-iubenti **me latet**; dei cauda Atlante frugum.
-
-1. Viso cum
-2. Manant diris
-3. Enim adverso Talia et interea iurares
-4. Hoc iussit meruisse suum e gerit sub
-5. Sicelidas ait
-
-Flectat fatorum nusquam spernimur cumulum alis flaventibus modo mater felix
-induruit feri et *postes*, velle! Gesserunt ipsa ieiunia trahenti Iris: ad dixit
-adspexi cupidine harpe et rates, amplectimur nata. Spargit te laedere nec;
-remisit pars reppulit. Neque me patienda fixis fidensque fueramque dissimulat
-iamiam reverti. Sed hic aut Phorbantis
-[optas](http://www.thesecretofinvisibility.com/), luctus nunc glandes miremur
-qui sumpto, subit.
-
-Ab adesse dixit data habet altera rotae et stirpes vivacem. Natalis quam? Nunc
-eunt [Venusque](http://twitter.com/search?q=haskell) facit Teucri, nec vestes,
-nova percutiens confertque Minyis?
+>>>>> Notez que le système des avis vérifiés ou certifiés n'est pas inclus dans votre boutique. 
