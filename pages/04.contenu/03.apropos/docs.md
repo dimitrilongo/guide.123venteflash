@@ -1,5 +1,5 @@
 ---
-title: A propos
+title: 'A propos'
 taxonomy:
     category: docs
 ---

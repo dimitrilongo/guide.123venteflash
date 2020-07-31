@@ -1,9 +1,9 @@
 ---
-title: Mentions Légales
+title: 'Mentions Légales'
 taxonomy:
     category: docs
 process:
-	twig: true
+    twig: true
 ---
 
 Lorem markdownum murmure fidissime suumque. Nivea agris, duarum longaeque Ide
