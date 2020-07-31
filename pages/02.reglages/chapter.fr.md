@@ -8,4 +8,4 @@ taxonomy:
 
 # Réglages généraux de la boutique
 
-Discover the **basic** principle
+Paramétrez votre boutique en ligne en quelques clics !
