@@ -1,12 +1,21 @@
 ---
-title: 'Produits 2'
+title: 'Page produits'
 taxonomy:
     category:
         - docs
 ---
 
-Le prochain paramètre à renseigner concerne vos produits. Il s'agit, dans cette rubrique, d'activer ou non certains paramètres. La liste de vos produits à vendre sera à renseigner plus tard dans le guide, dans la rubrique Produits (liens)
+Les paramètres de la page produit sont également généraux et seront affinés dans la rubrique boutique. 
 
 (image)
 
->>>>>> Pensez à bien renseigner l'email du destinataire des notifications. Ces emails vous aideront à gérer votre stock lorsque le seuil d'alerte est atteint, ainsi vous pourrez anticiper et vous réapprovisionner avant d'être en rupture et ainsi ne manquer aucune vente. 
+Vous pouvez donc choisir : 
+- d'afficher ou non la grille des produits complémentaires (cross selling)
+- le titre de la grille qui apparaîtra au visiteur (1)
+- le nombre de produits que vous souhaitez faire apparaître dans votre grille de vente complémentaire (2) 
+- la liste des produits infinie à faire afficher ou non 
+
+Exemple d'affichage en ligne : 
+(image)
+
+>>>>> Si vous cochez la case Liste produits infinie, cela s'applique  dans la fiche produit et affiche progressivement la suite des produits complémentaires. 
