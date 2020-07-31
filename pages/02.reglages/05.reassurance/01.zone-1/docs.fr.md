@@ -1,5 +1,5 @@
 ---
-title: 'Page toutes catégories 2'
+title: 'Zone 1'
 taxonomy:
     category:
         - docs
