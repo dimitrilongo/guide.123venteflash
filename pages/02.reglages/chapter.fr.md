@@ -6,6 +6,6 @@ taxonomy:
 
 ### Chapitre 2
 
-# Réglages généraux de la boutique
+# Réglages généraux
 
 Paramétrez votre boutique en ligne en quelques clics !
