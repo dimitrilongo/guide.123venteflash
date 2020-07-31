@@ -7,7 +7,7 @@ taxonomy:
 
 Maintenant que les paramètres généraux de votre boutique sont remplis, cliquez sur l'onglet Ecommerce (1). 
 
-(image)
+(![parametres-generaux-guide-123venteflash](media/15961817825641/parametres-generaux-guide-123venteflash.png)
 
 Dans cette rubrique, vous devez choisir les paramètres généraux directement liés à votre boutique comme : 
 
