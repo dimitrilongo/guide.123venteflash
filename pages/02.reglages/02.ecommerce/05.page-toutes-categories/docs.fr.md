@@ -1,5 +1,5 @@
 ---
-title: 'Page boutique 2'
+title: 'Page toutes catégories'
 taxonomy:
     category:
         - docs
