@@ -10,3 +10,5 @@ Le SEO rassemble toutes les actions qui permettent à votre boutique de se réf�
 ![SEO-guide-123venteflash](media/15961817825641/SEO-guide-123venteflash.png)
 
 Si vous souhaitez référencer votre boutique, cochez oui. 
+
+Vous devrez, par la suite, renseigner le SEO dans 
