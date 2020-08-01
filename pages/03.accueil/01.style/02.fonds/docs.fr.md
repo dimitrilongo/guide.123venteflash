@@ -12,7 +12,7 @@ Tout comme le choix des couleurs, vous pouvez choisir de mettre un fond dans vot
 
 ![couleurs-fonds-page-accueil-guide-123venteflash](media/15961817825641/couleurs-fonds-page-accueil-guide-123venteflash.png)
 
-Ici, nous avons choisi un fond blanc et une écriture bleu. Le fond est donc uni mais pourrait être une image personnalisée ou une image liée au style de la page d'accueil. 
+Ici, nous avons choisi un fond blanc et une écriture bleue. Le fond est donc uni mais pourrait être une image personnalisée ou une image liée au style de la page d'accueil. 
 
 Laissez-vous tenter par ce qui vous plaît. Exemple : 
 
