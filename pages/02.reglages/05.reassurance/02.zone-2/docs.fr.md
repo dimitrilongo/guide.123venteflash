@@ -5,3 +5,18 @@ taxonomy:
         - docs
 ---
 
+La zone 2 de réassurance est située plus bas dans la fiche produit. Le paramétrage est exactement le même que dans la zone 1. 
+
+Vous pouvez remplir les mêmes champs :
+
+- titre
+- icône 
+- contenu
+
+![reassurance2-guide-123venteflash](media/15961817825641/reassurance2-guide-123venteflash.png)
+
+Dans la fiche produit, vous pouvez donc rentrer jusqu'à 6 éléments de réassurance. 
+
+Exemple en ligne :
+
+![exemple-reassurance2-guide-123venteflash](media/15961817825641/exemple-reassurance2-guide-123venteflash.png)
