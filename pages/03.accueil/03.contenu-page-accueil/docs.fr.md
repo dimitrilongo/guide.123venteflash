@@ -1,8 +1,10 @@
 ---
-title: 'Slider 2'
+title: Contenu
 taxonomy:
-    category: docs
+    category:
+        - docs
 process:
+    markdown: true
     twig: true
 ---
 
