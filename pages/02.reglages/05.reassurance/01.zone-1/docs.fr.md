@@ -21,5 +21,3 @@ Vous pouvez renseigner jusqu'à 3 points de réassurance par zone.
 Exemple : 
 
 ![exemple-ressaurance1-guide-123venteflash](media/15961817825641/exemple-ressaurance1-guide-123venteflash.png)
-
-
