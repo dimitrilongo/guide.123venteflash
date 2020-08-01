@@ -18,3 +18,17 @@ Vous avez, à votre disposition, plusieurs éléments dont :
 - le slider
 
 ![styles-guide-123venteflash](media/15961817825641/styles-guide-123venteflash.png)
+
+Le style impacte plusieurs éléments dans la page d'accueil dont : 
+ 
+- La couleur des boutons
+- Les barres de séparation des éléments
+- Les accroches du slider
+
+Exemple en jaune : 
+
+![exemple-style-boutique-accueil-guide-123venteflash](media/15961817825641/exemple-style-boutique-accueil-guide-123venteflash.png)
+
+Exemple en turquoise : 
+
+![exemple-style-turquoise-accueil-boutique-guide-123venteflash](media/15961817825641/exemple-style-turquoise-accueil-boutique-guide-123venteflash.png)
