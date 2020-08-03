@@ -50,3 +50,15 @@ Si vous ne l'avez pas encore utilisé, cela ne pose aucun problème. En effet, i
 Avant de supprimer un média, mieux vaut s'assurant qu'il n'est pas déjà utilisé dans votre boutique. Si c'set le cas, prenez soin de notre son emplacement afin de remplacer votre média par un autre pour éviter les zones blanches. 
 
 ![supprimer-media-guide-123venteflash](media/15961817825641/supprimer-media-guide-123venteflash.png)
+
+### Récupérer l'url d'une image 
+
+Il peut arriver que vous ayez besoin de récupérer le lien (aussi appelé URL) de votre image. C'est pour cette raison que nous attirons votre attention sur le détails de votre fichier. 
+
+![copier-lien-media-guide-123venteflash](media/15961817825641/copier-lien-media-guide-123venteflash.png)
+
+Juste au dessus de la possibilité de suppression d'un fichier, vous avez accès à l'adresse du média tel qu'il est présenté au moteur de recherche. En cliquant simplement sur COPIER LE LIEN, vous l'insérer votre presse papier pour le copier ailleurs. 
+
+Pour copier/coller vos éléments, vous avez plusieurs possibilités :
+- cliquez sur le bouton droit de votre souris puis sélectionner Copier dans la liste déroulante et ensuite Coller là où vous le souhaitez toujours en cliquant sur le bouton droit. 
+- utiliser les raccourcis clavier CRTL+C pour copier et CRTL+V pour coller ailleurs. 
