@@ -16,8 +16,6 @@ La page est composée de plusieurs onglets dans lesquels vous allez devoir navig
 - contact
 - téléphone
 
->>> Notre conseil pour le nom de votre boutique : préférez un mot unique plutôt qu'un mot composé
-
 ![reglage-generaux-guide-123venteflash](media/15961817825641/reglage-generaux-guide-123venteflash.png)
 
->>>> Lorsque tous les champs sont remplis, n'oubliez pas d'appuyer sur le bouton sauvegarder (3).
+!! Lorsque tous les champs sont remplis, n'oubliez pas d'appuyer sur le bouton sauvegarder réglages (3).
