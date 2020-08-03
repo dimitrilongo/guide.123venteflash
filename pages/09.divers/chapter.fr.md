@@ -8,4 +8,4 @@ taxonomy:
 
 # Boutique
 
-Discover the **basic** principle
+Paramétrage du **catalogue** de votre boutique en ligne !
