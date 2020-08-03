@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### Chapitre 8
+### Chapitre 6
 
 # Boutique
 
-Paramétrage de votre **boutique en ligne** !
+Paramétrage du **catalogue** de votre boutique en ligne !
