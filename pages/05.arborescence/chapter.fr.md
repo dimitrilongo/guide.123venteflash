@@ -8,4 +8,4 @@ taxonomy:
 
 # Menu
 
-Delve deeper into more **complex** topics
+Définissez l'arborescence et le **menu** de votre boutique
