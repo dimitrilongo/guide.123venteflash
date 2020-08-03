@@ -11,4 +11,10 @@ Le SEO rassemble toutes les actions qui permettent à votre boutique de se réf�
 
 Si vous souhaitez référencer votre boutique, cochez oui. 
 
-Vous devrez, par la suite, renseigner le SEO dans 
+>>>> N'oubliez surtout pas de cliquer sur le bouton bleu SAUVEGARDER RÉGLAGES pour valider vos choix ! 
+
+Vous avez sûrement remarqué le bandeau suivant qui s'affiche en haut de vote générateur de boutique : 
+
+![bandeau-seo-inactif-guide-123venteflash](media/15961817825641/bandeau-seo-inactif-guide-123venteflash.png)
+
+Ce bandeau vous indique que vous n'avez pas cocher OUI dans cette rubrique. 
