@@ -13,8 +13,8 @@ La page est composée de plusieurs onglets dans lesquels vous allez devoir navig
 - Nom : choisissez l'orthographe avec soin car ce nom sera visible dans l'url de votre boutique en ligne
 - Slogan
 - Adresse
-- contact
-- téléphone
+- Contact
+- Téléphone
 
 ![reglage-generaux-guide-123venteflash](media/15961817825641/reglage-generaux-guide-123venteflash.png)
 
