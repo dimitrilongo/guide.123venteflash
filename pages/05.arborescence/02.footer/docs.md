@@ -1,5 +1,5 @@
 ---
-title: Menu Footer
+title: 'Menu Footer'
 taxonomy:
     category: docs
 ---
