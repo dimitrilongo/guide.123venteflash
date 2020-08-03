@@ -15,4 +15,14 @@ Contrairement au Header (menu d'en-tête), l'affichage se fait uniquement sous l
 
 ![exemple-pied-page-footer-guide-123venteflash](media/15961817825641/exemple-pied-page-footer-guide-123venteflash.png)
 
->>>>> Les réseaux sociaux sont affichés automatiquement à condition que vous ayez rempli les liens dans la rubrique [Réseaux sociaux](https://guide.123venteflash.com/arborescence/reseaux).
+
+>>>>> Les réseaux sociaux sont affichés automatiquement à conditions que vous ayez rempli les liens dans la rubrique [Réseaux sociaux](https://guide.123venteflash.com/arborescence/reseaux).
+
+### Onglet Pied de page
+
+Dans le pied de page, il y a 2 colonnes qui sont à paramétrer : 
+
+- INFORMATIONS : elle contient les liens vus plus haut, à faire afficher automatiquement sur toutes les pages
+- NOUS CONTACTER : elle renseigne le visiteurs sur les éléments préalablement remplis dans la [rubrique générale](https://guide.123venteflash.com/reglages/generale) de votre boutique. 
+
+![affichage-coordonnees-footer-guide-123venteflash](media/15961817825641/affichage-coordonnees-footer-guide-123venteflash.png)
