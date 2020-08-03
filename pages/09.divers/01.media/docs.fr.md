@@ -11,5 +11,6 @@ Tous les médias dont vous avez besoin sont rangés dans la bibliothèque. Donc 
 
 Nous allons voir ensemble comment : 
 - ajouter un média
+- modifier un média
 - supprimer un média
 - utiliser une url et la copier/coller
