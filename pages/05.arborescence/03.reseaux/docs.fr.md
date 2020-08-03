@@ -12,7 +12,7 @@ Si votre boutique est aussi présente sur les réseaux sociaux, vous pouvez ais�
 
 ![parametrage-reseaux-sociaux-guide-123venteflash](media/15961817825641/parametrage-reseaux-sociaux-guide-123venteflash.png)
 
->>>>> N'oubliez pas de sauvegarder vos paramètres ! 
+>>> N'oubliez pas de sauvegarder vos paramètres ! 
 
 Exemple visible sur l'en-tête de toutes les pages mais aussi sur le footer. 
 
