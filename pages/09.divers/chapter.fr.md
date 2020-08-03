@@ -4,8 +4,9 @@ taxonomy:
     category: docs
 ---
 
-### Chapitre 8
+### Chapitre 7
 
-# Boutique
+# Éléments divers
 
-Paramétrage du **catalogue** de votre boutique en ligne !
+Insérer un **média**, ajouter un **utilisateur** et découvrez des **ressources** complémentaires
+****
