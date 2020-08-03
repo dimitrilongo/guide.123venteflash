@@ -9,4 +9,3 @@ taxonomy:
 # Éléments divers
 
 Insérer un **média**, ajouter un **utilisateur** et découvrez des **ressources** complémentaires
-****
