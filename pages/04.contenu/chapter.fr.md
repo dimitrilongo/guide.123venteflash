@@ -8,4 +8,4 @@ taxonomy:
 
 # Contenu
 
-Delve deeper into more **complex** topics
+Tous les **contenus légaux** de votre site
