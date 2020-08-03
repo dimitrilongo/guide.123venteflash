@@ -23,3 +23,6 @@ En plus des boutons, des liens vers d'autres actions sont disponibles :
 
 ![interface-guide-123venteflash](media/15961817825641/interface-guide-123venteflash.png)
 
+!! À fin de chaque page, vous trouverez un bouton bleu nommé SAUVEGARDE RÉGLAGES. N'oubliez pas de cliquer sur ce bouton chaque fois que vous procédez à un changement des informations sur une page, sinon vos modifications ne seront pas prises en compte dans votre boutique. 
+
+![bouton-sauvegarde-guide-123venteflash](media/15961817825641/bouton-sauvegarde-guide-123venteflash.png)
