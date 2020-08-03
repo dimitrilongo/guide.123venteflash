@@ -15,4 +15,4 @@ Contrairement au Header (menu d'en-tête), l'affichage se fait uniquement sous l
 
 ![exemple-pied-page-footer-guide-123venteflash](media/15961817825641/exemple-pied-page-footer-guide-123venteflash.png)
 
->>>>> Les réseaux sociaux sont affichés automatiquement à conditions que vous ayez rempli les liens dans la rubrique [Réseaux sociaux](https://guide.123venteflash.com/arborescence/reseaux).
+>>>>> Les réseaux sociaux sont affichés automatiquement à condition que vous ayez rempli les liens dans la rubrique [Réseaux sociaux](https://guide.123venteflash.com/arborescence/reseaux).
