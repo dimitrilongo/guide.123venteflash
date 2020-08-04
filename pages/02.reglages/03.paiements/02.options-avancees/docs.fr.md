@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-Maintenant que votre compte Paypal est paramétré et que vous avez accès au système de paiement, Il vous reste à paramétrer les options avancées : 
+Maintenant que votre compte Paypal est paramétré et que vous avez accès au système de paiement, il vous reste à paramétrer les options avancées : 
 
 ![parametres-options-avancees-paypal-guide-123ventesflash](media/15961817825641/parametres-options-avancees-paypal-guide-123ventesflash.png)
 
