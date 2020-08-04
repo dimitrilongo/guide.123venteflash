@@ -32,6 +32,16 @@ Lorsque vous aurez tout rempli (titre, contenu, catégorie, produit simple ou va
 
 ### Produit simple : onglet général 
 
+Maintenant que vous avez rempli les éléments principaux de votre fiche produit, il est temps de remplir les onglets suivants. Un produit simple est un produit qui ne comporte aucune variable que ce soit dans la couleur, la forme ou encore la matière. 
+
+Dans l'onglet général, vous pouvez remplir : 
+- le prix de vente
+- le prix promotionnel (si vous souhaitez en proposer un)
+- la TVA applicable
+- le taux de TVA
+
+![produit-simple-general-guide-123vetneflash](produit-simple-general-guide-123vetneflash.png)
+
 ### Produit simple : onglet inventaire
 
 ### Produit simple : onglet expédition
