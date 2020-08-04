@@ -17,7 +17,7 @@ Ainsi, vous y trouverez :
 - les images du slider
 - les illustrations diverses des pages
 
-![ajout-media-bibliotheque-guide-123venteflash](media/15961817825641/ajout-media-bibliotheque-guide-123venteflash.png)
+![ajout-media-bibliotheque-guide-123venteflash](ajout-media-bibliotheque-guide-123venteflash.png)
 
 ### Ajouter un média dans la bibliothèque
 
