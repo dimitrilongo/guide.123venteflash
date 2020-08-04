@@ -15,9 +15,9 @@ Lorsque vos catégories sont définies, il est temps de les renseigner dans votr
 
 Vous avez un certains nombre d'informations à remplir, notamment : 
 - le nom de la catégorie
-- le slug (qui servira à construire l'url d'accès à votre catégorie)
+- le slug (qui servira à construire l'url automatique d'accès à votre catégorie)
 - la description
-- une série d'image de diverses tailles destinés aux mobiles, aux ordinateurs fixes ainsi qu'à la page catégorie elle-même. 
+- une série d'images de diverses tailles destinées aux mobiles, aux ordinateurs fixes ainsi qu'à la page catégorie elle-même. 
 
 !!! Les dimensions idéales des images sont indiquées sur cette page. Pour savoir comment ajouter une image dans votre bibliothèque de médias, la procédure détaillée est indiquée dans la rubrique [Bibliothèque de médias](https://guide.123venteflash.com/divers/media/bibliotheque-media).
 
