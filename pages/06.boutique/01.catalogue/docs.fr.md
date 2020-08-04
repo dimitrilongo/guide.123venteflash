@@ -19,6 +19,6 @@ Vous avez un certains nombre d'informations à remplir, notamment :
 - la description
 - une série d'image de diverses tailles destinés aux mobiles, aux ordinateurs fixes ainsi qu'à la page catégorie elle-même. 
 
-!!! Les dimensions idéales des images est indiquée sur cette page. Pour savoir comment ajouter une image dans votre bibliothèque de médias, la procédure détaillée est indiquée dans la rubrique [Bibliothèque de médias](https://guide.123venteflash.com/divers/media/bibliotheque-media).
+!!! Les dimensions idéales des images sont indiquées sur cette page. Pour savoir comment ajouter une image dans votre bibliothèque de médias, la procédure détaillée est indiquée dans la rubrique [Bibliothèque de médias](https://guide.123venteflash.com/divers/media/bibliotheque-media).
 
 Vous pouvez entrer autant de catégories que vous le souhaitez. Elles vous serviront à classer vos produits et constituent la base de votre catalogue. 
