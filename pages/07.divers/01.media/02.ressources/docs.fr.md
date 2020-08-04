@@ -58,4 +58,4 @@ Pour cela, avant de les importer dans votre bibliothèque, vérifiez leur taille
 
 Passez donc toutes vos images, systématiquement, dans un logiciel de compression. Rendez-vous sur [TINYPNG](https://tinypng.com/). 
 
-TinyPng est un compresseur d'images qui accepte les formats PNG et JPG. Ainsi, vous gagnez en vitesse de chargement très facilement.
+TinyPng est un compresseur d'images gratuit qui accepte les formats PNG et JPG. Ainsi, vous gagnez en vitesse de chargement très facilement.
