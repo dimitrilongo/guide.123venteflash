@@ -63,8 +63,22 @@ Ainsi, vous pouvez renseigner :
 
 ![produit-simple-expedition-guide-123venteflash](produit-simple-expedition-guide-123venteflash.png)
 
-### Produit simple : onglet attributs
+### produit simple : onglet Attributs
 
-### Produit simple : onglet product videos
+Les attributs de produits sont un autre moyen permettant de regrouper des produits. En effet, dans le cas produits simples, il n'est pas nécessaire de remplir cette rubrique. Elle est toutefois essentielle dans on veut classer des produits variables. 
 
-### Insérer les images du produit
+Si vous avez des produits avec un attributs qui changent comme la couleur, la forme, la taille et/ou la matière, commencez par rentrer vos attributs (nom de l'attribut + variables). 
+
+Dès lors que vous entrez des attributs dans votre produit simple, celui-ci devient alors un produit variable. 
+
+![produit-simple-attributs-guide-123venteflash](produit-simple-attributs-guide-123venteflash.png)
+
+### produit simple : onglet Product videos
+
+Si, pour votre produit simple, vous disposez d'une vidéo de présentation ou une vidéo à 360° par exemple, c'est ici que vous allez pouvoir l'insérer. Ces vidéos proviennent de la plateforme Youtube, Dailymotion ou Viméo. 
+
+Pour cela, vous devez récupérer l'adresse où est stockée votre vidéo et la copier puis la coller dans le cadre prévu à cet effet. 
+
+![produit-simple-videos-guide-123venteflash](produit-simple-videos-guide-123venteflash.png)
+
+! N'oubliez surtout pas de sauvegarder vos modifications en cliquant sur le bouton : Enregistrer brouillon
