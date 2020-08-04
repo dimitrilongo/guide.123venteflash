@@ -25,3 +25,8 @@ Maintenant, il faut classer votre produit dans la bonne catégorie en la sélect
 Si, pour une raison ou une autre, il vous manque une catégorie, vous avez un accès rapide pour en ajouter une en cliquant sur le lien *Ajouter une catégorie*. 
 
 Si vous oubliez de renseigner une catégorie pour un produit, celui-ci sera automatiquement rangé dans la catégorie *Non classé*. 
+
+Pensez ensuite à sauvegarder votre produit en cliquant sur le bouton Enregistrer le brouillon (4). Le bouton *Prévisualiser* vous sert à voir comment votre contenu, vos photos et votre produit va apparaître pour les visiteurs. 
+
+Lorsque vous aurez tout rempli (titre, contenu, catégorie, produit simple ou variable, images), il vous restera à appuyer sur le bouton PUBLIER (5). 
+
