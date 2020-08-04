@@ -1,6 +1,6 @@
 ---
 title: 'Produits simples'
-media_order: 'ajouter-nouveau-produit-catalogue-guide-123venteflash.png,bouton-ajouter-produit-catalogue-guide-123venteflash.png,produit-simple-general-guide-123vetneflash.png,produit-simple-inventaire-guide-123venteflash.png,produit-simple-expedition-guide-123venteflash.png,produit-simple-videos-guide-123venteflash.png,produit-simple-attributs-guide-123venteflash.png,elements-courts-produit-guide-123venteflash.png'
+media_order: 'ajouter-nouveau-produit-catalogue-guide-123venteflash.png,bouton-ajouter-produit-catalogue-guide-123venteflash.png,produit-simple-general-guide-123vetneflash.png,produit-simple-inventaire-guide-123venteflash.png,produit-simple-expedition-guide-123venteflash.png,produit-simple-videos-guide-123venteflash.png,produit-simple-attributs-guide-123venteflash.png,elements-courts-produit-guide-123venteflash.png,images-produits-guide-123venteflash.png'
 taxonomy:
     category:
         - docs
@@ -87,7 +87,7 @@ Dès lors que vous entrez des attributs dans votre produit simple, celui-ci devi
 
 Si, pour votre produit simple, vous disposez d'une vidéo de présentation ou une vidéo à 360° par exemple, c'est ici que vous allez pouvoir l'insérer. Ces vidéos proviennent de la plateforme Youtube, Dailymotion ou Viméo. 
 
-Pour cela, vous devez récupérer l'adresse où est stockée votre vidéo et la copier puis la coller dans le cadre prévu à cet effet. 
+Pour cela, vous devez récupérer l'adresse où est stockée votre vidéo et copiez-la puis collez-la dans le cadre prévu à cet effet. 
 
 ![produit-simple-videos-guide-123venteflash](produit-simple-videos-guide-123venteflash.png)
 
