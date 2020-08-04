@@ -1,6 +1,6 @@
 ---
 title: 'Produits simples'
-media_order: 'ajouter-nouveau-produit-catalogue-guide-123venteflash.png,bouton-ajouter-produit-catalogue-guide-123venteflash.png,produit-simple-general-guide-123vetneflash.png,produit-simple-inventaire-guide-123venteflash.png'
+media_order: 'ajouter-nouveau-produit-catalogue-guide-123venteflash.png,bouton-ajouter-produit-catalogue-guide-123venteflash.png,produit-simple-general-guide-123vetneflash.png,produit-simple-inventaire-guide-123venteflash.png,produit-simple-expedition-guide-123venteflash.png,produit-simple-videos-guide-123venteflash.png'
 taxonomy:
     category:
         - docs
