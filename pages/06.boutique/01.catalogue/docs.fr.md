@@ -9,7 +9,7 @@ Dans votre boutique, vous pouvez ajouter des produits pour constituer votre cata
 
 Cette première étape est indispensable car elle va permettre à vos visiteurs de naviguer dans votre boutique de manière intuitive, claire et précise. Plus vos catégories sont explicites, plus l'expérience de l'utilisateur est bonne. 
 
-Lorsque vous catégories sont définies, il est temps de les renseigner dans votre boutique en ligne. Cliquez sur le menu produits puis catégories. Vous arrivez sur l'interface suivante : 
+Lorsque vos catégories sont définies, il est temps de les renseigner dans votre boutique en ligne. Cliquez sur le menu _produits_ puis _catégories_. Vous arrivez sur l'interface suivante : 
 
 ![remplir-categories-produits-catalogue-guide-123venteflash](remplir-categories-produits-catalogue-guide-123venteflash.png)
 
