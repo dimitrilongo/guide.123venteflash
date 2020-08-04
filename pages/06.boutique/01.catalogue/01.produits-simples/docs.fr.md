@@ -1,6 +1,6 @@
 ---
 title: 'Produits simples'
-media_order: 'ajouter-nouveau-produit-catalogue-guide-123venteflash.png,bouton-ajouter-produit-catalogue-guide-123venteflash.png,produit-simple-general-guide-123vetneflash.png,produit-simple-inventaire-guide-123venteflash.png,produit-simple-expedition-guide-123venteflash.png,produit-simple-videos-guide-123venteflash.png'
+media_order: 'ajouter-nouveau-produit-catalogue-guide-123venteflash.png,bouton-ajouter-produit-catalogue-guide-123venteflash.png,produit-simple-general-guide-123vetneflash.png,produit-simple-inventaire-guide-123venteflash.png,produit-simple-expedition-guide-123venteflash.png,produit-simple-videos-guide-123venteflash.png,produit-simple-attributs-guide-123venteflash.png,elements-courts-produit-guide-123venteflash.png'
 taxonomy:
     category:
         - docs
@@ -9,7 +9,7 @@ process:
     twig: true
 ---
 
-## Ajouter un nouveau produit dans votre catalogue
+### Ajouter un nouveau produit dans votre catalogue
 
 Lorsque vos catégories sont bien renseignées, vous pouvez commencer à enregistrer vos produits. Pour cela, cliquez sur le menu TOUS LES PRODUITS dans la colonne de gauche. 
 
@@ -28,7 +28,15 @@ Si vous oubliez de renseigner une catégorie pour un produit, celui-ci sera auto
 
 Pensez ensuite à sauvegarder votre produit en cliquant sur le bouton Enregistrer le brouillon (4). Le bouton *Prévisualiser* vous sert à voir comment votre contenu, vos photos et votre produit va apparaître pour les visiteurs. 
 
+Sauvegardez après noté le titre de votre article. Deux cadres supplémentaires vont alors apparaître : 
+- le titre court : noter le nom de votre produit
+- la description courte : rédiger une description de 50 mots environ pour présenter votre produit et donner envie au visiteur d'en savoir plus 
+
+![elements-courts-produit-guide-123venteflash](elements-courts-produit-guide-123venteflash.png)
+
 Lorsque vous aurez tout rempli (titre, contenu, catégorie, produit simple ou variable, images), il vous restera à appuyer sur le bouton PUBLIER (5). 
+
+! Notre conseil pour la rédaction : dans le contenu descriptif, pensez à donner des informations différentes de celles de votre fournisseurs ou de vos concurrents pour éviter de dupliquer du contenu. 
 
 ### Produit simple : onglet général 
 
@@ -42,7 +50,8 @@ Dans l'onglet général, vous pouvez remplir :
 
 ![produit-simple-general-guide-123vetneflash](produit-simple-general-guide-123vetneflash.png)
 
-### Produit simple : onglet inventaire
+
+### Produit simple : onglet Inventaire
 
 Dans cet onglet, vous pouvez indiquer quelques renseignements intéressants pour votre gestion de stock : 
 
@@ -63,6 +72,7 @@ Ainsi, vous pouvez renseigner :
 
 ![produit-simple-expedition-guide-123venteflash](produit-simple-expedition-guide-123venteflash.png)
 
+
 ### produit simple : onglet Attributs
 
 Les attributs de produits sont un autre moyen permettant de regrouper des produits. En effet, dans le cas produits simples, il n'est pas nécessaire de remplir cette rubrique. Elle est toutefois essentielle dans on veut classer des produits variables. 
@@ -82,3 +92,15 @@ Pour cela, vous devez récupérer l'adresse où est stockée votre vidéo et la 
 ![produit-simple-videos-guide-123venteflash](produit-simple-videos-guide-123venteflash.png)
 
 ! N'oubliez surtout pas de sauvegarder vos modifications en cliquant sur le bouton : Enregistrer brouillon
+
+### Insérer les images du produit
+
+Lorsque vous avez soigneusement rempli tous les cadres de fonctionnalité de votre produit, il vous reste à insérer les images d'illustration. 
+
+Vous avez plusieurs images à renseigner dans ce cadre : 
+- l'image principale qui sera affichée pour le visiteur depuis son ordinateur (image desktop)
+- l'image principale qui sera affichée pour le visiteur depuis son smartphone (image mobile)
+- l'image de votre produit (qui peut être identique à celle vue par le visiteur sur son ordinateur)
+- une série d'images présentant le produit sous la forme d'une galerie
+
+![images-produits-guide-123venteflash](images-produits-guide-123venteflash.png)
