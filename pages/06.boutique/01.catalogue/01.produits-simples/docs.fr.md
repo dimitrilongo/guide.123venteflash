@@ -1,6 +1,6 @@
 ---
 title: 'Produits simples'
-media_order: 'ajouter-nouveau-produit-catalogue-guide-123venteflash.png,bouton-ajouter-produit-catalogue-guide-123venteflash.png'
+media_order: 'ajouter-nouveau-produit-catalogue-guide-123venteflash.png,bouton-ajouter-produit-catalogue-guide-123venteflash.png,produit-simple-general-guide-123vetneflash.png,produit-simple-inventaire-guide-123venteflash.png'
 taxonomy:
     category:
         - docs
@@ -44,7 +44,24 @@ Dans l'onglet général, vous pouvez remplir :
 
 ### Produit simple : onglet inventaire
 
+Dans cet onglet, vous pouvez indiquer quelques renseignements intéressants pour votre gestion de stock : 
+
+- UGS : code unique d'identification de votre produit
+- Gestion de stock : pour pouvez choisir d'intégrer ce produit dans votre gestion de stock ou non. 
+- Etat de stock : vous pouvez indiquer l'état du stock de votre produit (en stock, en rupture de stock ou en cours de réapprovisionnement)
+- Vendre individuellement : en cochant cette case, vous indiquez aux clients qu'ils ne peuvent commander qu'un seul produit par commande. 
+
+![produit-simple-inventaire-guide-123venteflash](produit-simple-inventaire-guide-123venteflash.png)
+
 ### Produit simple : onglet expédition
+
+Concernant l'expédition de votre produit, vous pouvez indiquer certains éléments afin de suivre les expéditions, leur coût pour vous et la rentabilité. 
+
+Ainsi, vous pouvez renseigner : 
+- le poids du produit dans son colis (pensez à compter les produits d'emballage)
+- les dimensions du paquet envoyé
+
+![produit-simple-expedition-guide-123venteflash](produit-simple-expedition-guide-123venteflash.png)
 
 ### Produit simple : onglet attributs
 
