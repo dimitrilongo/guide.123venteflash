@@ -30,3 +30,14 @@ Pensez ensuite à sauvegarder votre produit en cliquant sur le bouton Enregistre
 
 Lorsque vous aurez tout rempli (titre, contenu, catégorie, produit simple ou variable, images), il vous restera à appuyer sur le bouton PUBLIER (5). 
 
+### Produit simple : onglet général 
+
+### Produit simple : onglet inventaire
+
+### Produit simple : onglet expédition
+
+### Produit simple : onglet attributs
+
+### Produit simple : onglet product videos
+
+### Insérer les images du produit
