@@ -1,5 +1,6 @@
 ---
 title: 'Produits simples'
+media_order: 'ajouter-nouveau-produit-catalogue-guide-123venteflash.png,bouton-ajouter-produit-catalogue-guide-123venteflash.png'
 taxonomy:
     category:
         - docs
@@ -7,6 +8,8 @@ process:
     markdown: true
     twig: true
 ---
+
+### Ajouter un nouveau produit dans votre catalogue
 
 Lorsque vos catégories sont bien renseignées, vous pouvez commencer à enregistrer vos produits. Pour cela, cliquez sur le menu TOUS LES PRODUITS dans la colonne de gauche. 
 
