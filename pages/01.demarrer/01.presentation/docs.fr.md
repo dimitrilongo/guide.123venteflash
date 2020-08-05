@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-123VenteFlash est un assistant de création de boutique e-commerce. Vous pouvez personnaliser votre boutique en ligne en quelques clics grâce à ce guide de démarrage rapide  ! 
+123VenteFlash est un assistant de création de boutiques e-commerce. Vous pouvez personnaliser votre boutique en ligne en quelques clics grâce à ce guide de démarrage rapide  ! 
 
 >>>>> 123VenteFlash est avant tout un outil à *votre* service. Il a été conçu de manière intuitive afin que vous puissiez le prendre en main rapidement et facilement. 
 
