@@ -44,7 +44,7 @@ Ce tableau vous permet de savoir combien de nouveaux clients ont commandé sur v
 
 Ce rapport sur les stocks vous indique l’état de votre stock dans votre boutique à ce jour. 
 
-![rapport-stock-guide-123venteflash](media/15961817825641/rapport-stock-guide-123venteflash.png)
+![rapport-stock-guide-123venteflash](rapport-stock-guide-123venteflash.png)
 
 Ainsi, vous pouvez surveiller vos stocks. 
 Pensez à bien renseigner cette donnée dans vos fiches produits afin que ce tableau reflète au mieux la réalité de votre stock. 
