@@ -38,7 +38,7 @@ Lorsque vous aurez tout rempli (titre, contenu, catégorie, produit simple ou va
 
 ! Notre conseil pour la rédaction : dans le contenu descriptif, pensez à donner des informations différentes de celles de votre fournisseur ou de vos concurrents pour éviter de dupliquer du contenu. 
 
-### Produit simple : onglet général 
+## Produit simple : onglet général 
 
 Maintenant que vous avez rempli les éléments principaux de votre fiche produit, il est temps de remplir les onglets suivants. Un produit simple est un produit qui ne comporte aucune variable que ce soit dans la couleur, la forme ou encore la matière. 
 
@@ -73,7 +73,7 @@ Ainsi, vous pouvez renseigner :
 ![produit-simple-expedition-guide-123venteflash](produit-simple-expedition-guide-123venteflash.png)
 
 
-## produit simple : onglet Attributs
+## Produit simple : onglet Attributs
 
 Les attributs de produits sont un autre moyen permettant de regrouper des produits. En effet, dans le cas *produits simples*, il n'est pas nécessaire de remplir cette rubrique. Elle est toutefois essentielle dans on veut classer des produits variables. 
 
@@ -83,7 +83,7 @@ Dès lors que vous entrez des attributs dans votre produit simple, celui-ci devi
 
 ![produit-simple-attributs-guide-123venteflash](produit-simple-attributs-guide-123venteflash.png)
 
-## produit simple : onglet Product videos
+## Produit simple : onglet Product videos
 
 Si, pour votre produit simple, vous disposez d'une vidéo de présentation ou une vidéo à 360° par exemple, c'est ici que vous allez pouvoir l'insérer. Ces vidéos proviennent de la plateforme YouTube, Dailymotion ou Viméo. 
 
