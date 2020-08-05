@@ -19,4 +19,3 @@ Dans ces paramètres, vous pouvez choisir :
 
 Exemple :
 ![exemple-page-categories-guide-123venteflash](exemple-page-categories-guide-123venteflash.png)
-
