@@ -8,4 +8,4 @@ taxonomy:
 
 # Page d'accueil
 
-Paramétrer votre page d'accueil pour qu'elle vous ressemble.
+Paramétrez votre **page d'accueil** pour qu'elle vous ressemble.
