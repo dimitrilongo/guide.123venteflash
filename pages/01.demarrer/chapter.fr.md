@@ -8,4 +8,4 @@ taxonomy:
 
 # Démarrer
 
-Bienvenue dans le guide de démarrage de votre **générateur de boutique** 123VenteFlash 
+Bienvenue dans le guide de démarrage de votre **générateur de boutique** 123VenteFlash
