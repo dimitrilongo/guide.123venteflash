@@ -1,5 +1,6 @@
 ---
 title: 'Page toutes catégories'
+media_order: exemple-page-categories-guide-123venteflash.png
 taxonomy:
     category:
         - docs
