@@ -25,7 +25,7 @@ Pour insérer un média dans votre bibliothèque, rendez-vous sur la page de la 
 
 ![ajouter-media-guide-123venteflash](ajouter-media-guide-123venteflash.png)
 
-### Modifier un média dans la bibliothèque
+## Modifier un média dans la bibliothèque
 
 Le générateur de boutique vous permet de modifier un média que vous avez ajouté à la bibliothèque. 
 
