@@ -23,7 +23,6 @@ Ainsi, vous avez plusieurs éléments à vérifier, dont :
 
 ![menu-header-parametrage-guide-123venteflash](menu-header-parametrage-guide-123venteflash.png)
 
-
 >>> À noter que pour la page À propos, celle-ci ne s'affichera dans le menu que si vous avez choisi, au préalable, de renseigner du contenu. 
 
 Exemple : 
