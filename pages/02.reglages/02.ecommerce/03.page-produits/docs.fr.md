@@ -5,9 +5,7 @@ taxonomy:
         - docs
 ---
 
-Les paramètres de la page produit sont également généraux et seront affinés dans la rubrique boutique. 
-
-![parametres-page-produits-guide-123venteflash](media/15961817825641/parametres-page-produits-guide-123venteflash.png)
+![parametres-page-produits-guide-123venteflash](parametres-page-produits-guide-123venteflash.png)
 
 Vous pouvez donc choisir : 
 - d'afficher ou non la grille des produits complémentaires (cross selling)
@@ -16,6 +14,9 @@ Vous pouvez donc choisir :
 - la liste des produits infinie à faire afficher ou non 
 
 Exemple d'affichage en ligne : 
-![parametres-plus-produits-guide-123venteflash](media/15961817825641/parametres-plus-produits-guide-123venteflash.png)
 
->>>>> Si vous cochez la case Liste produits infinie, cela s'applique  dans la fiche produit et affiche progressivement la suite des produits complémentaires. 
+![parametres-plus-produits-guide-123venteflash](parametres-plus-produits-guide-123venteflash.png)
+
+
+>>>>> Si vous cochez la case Liste produits infinie, cela s'applique dans la fiche produit et affiche progressivement la suite des produits complémentaires. 
+
