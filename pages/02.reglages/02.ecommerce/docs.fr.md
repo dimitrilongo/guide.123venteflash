@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-L'onglet e-commerce vous permet d'accéder à plusieurs paramètres dont : 
+L’onglet e-commerce vous permet d’accéder à plusieurs paramètres dont : 
 
 - [réglages généraux](https://guide.123venteflash.com/reglages/ecommerce/reglages-generaux)
 - [produits](https://guide.123venteflash.com/reglages/ecommerce/produits)
