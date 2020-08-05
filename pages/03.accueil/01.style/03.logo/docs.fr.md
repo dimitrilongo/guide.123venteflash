@@ -16,5 +16,4 @@ Hauteur recommandée pour votre logo : de 90 pxl à 350 pxl
 
 À noter que vous avez la possibilité d’ajouter deux logos différents. Le premier sera visible lorsque votre visiteur sera sur votre site depuis un ordinateur de bureau (desktop) tandis que le second sera visible uniquement en version smartphone. 
 
-Pensez donc à bien définir les dimensions selon l’appareil utilisé 
-afin de rendre l’expérience utilisateur unique et adaptée.
+Pensez donc à bien définir les dimensions selon l’appareil utilisé afin de rendre l’expérience utilisateur unique et adaptée.
