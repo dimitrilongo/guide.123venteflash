@@ -8,27 +8,27 @@ process:
     twig: true
 ---
 
-Comme pour toutes les boutiques en ligne, vous avez la possibilité de modifier le style de la page d'accueil pour qu'elle vous ressemble et mette au mieux en valeur vos produits. 
+Comme pour toutes les boutiques en ligne, vous avez la possibilité de modifier le style de la page d’accueil pour qu’elle vous ressemble et mette au mieux en valeur vos produits. 
 
-Vous avez, à votre disposition, plusieurs éléments dont :
+Vous avez, à votre disposition, plusieurs éléments dont :
 
 - le style
 - les couleurs
 - le fond (image ou couleur)
 - le slider
 
-![styles-guide-123venteflash](media/15961817825641/styles-guide-123venteflash.png)
+![styles-guide-123venteflash](styles-guide-123venteflash.png)
 
-Le style impacte plusieurs éléments dans la page d'accueil dont : 
+Le style impacte plusieurs éléments dans la page d’accueil dont : 
  
 - La couleur des boutons
 - Les barres de séparation des éléments
 - Les accroches du slider
 
-Exemple en jaune : 
+Exemple en jaune : 
 
-![exemple-style-boutique-accueil-guide-123venteflash](media/15961817825641/exemple-style-boutique-accueil-guide-123venteflash.png)
+![exemple-style-boutique-accueil-guide-123venteflash](exemple-style-boutique-accueil-guide-123venteflash.png)
 
-Exemple en turquoise : 
+Exemple en turquoise : 
 
-![exemple-style-turquoise-accueil-boutique-guide-123venteflash](media/15961817825641/exemple-style-turquoise-accueil-boutique-guide-123venteflash.png)
+![exemple-style-turquoise-accueil-boutique-guide-123venteflash](exemple-style-turquoise-accueil-boutique-guide-123venteflash.png)
