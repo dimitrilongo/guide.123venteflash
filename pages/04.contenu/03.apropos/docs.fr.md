@@ -10,7 +10,7 @@ La page À propos est une page fortement recommandée pour un site internet ; el
 - la génération d'un texte automatique utilisant des variables*
 - la possibilité d'écrire votre page personnalisée À propos et de l'intégrer dans l'éditeur de texte
 
->>>>>> Les variables sont des éléments que vous avez remplis dans les pages précédentes comme le nom de votre boutique dans la rubrique générale. La nomenclature des variables est codifiée. Il faut donc respecter impérativement cette nomenclature. 
+>>>>>> *Les variables sont des éléments que vous avez remplis dans les pages précédentes comme le nom de votre boutique dans la rubrique générale. La nomenclature des variables est codifiée. Il faut donc respecter impérativement cette nomenclature. 
 
 ![a-propos-redaction-guide-123venteflash](a-propos-redaction-guide-123venteflash.png)
 
