@@ -1,5 +1,6 @@
 ---
 title: Slider
+media_order: 'exemple-reglages-slide-accueil-guide-123venteflash.png,reglagles-slider-accueil-guide-123venteflash.png,parametres-slider-page-accueil-guide-123venteflash.png'
 taxonomy:
     category:
         - docs
