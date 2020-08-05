@@ -7,8 +7,7 @@ taxonomy:
 
 Il existe une première zone dans votre fiche produit que vous pouvez renseigner en termes de réassurance. 
 
-![reassurance1-guide-123venteflash](media/15961817825641/reassurance1-guide-123venteflash.png)
-
+![reassurance1-guide-123venteflash](reassurance1-guide-123venteflash.png)
 
 Vous pouvez donc choisir :
 
@@ -20,4 +19,4 @@ Vous pouvez renseigner jusqu'à 3 points de réassurance par zone.
 
 Exemple : 
 
-![exemple-ressaurance1-guide-123venteflash](media/15961817825641/exemple-ressaurance1-guide-123venteflash.png)
+![exemple-ressaurance1-guide-123venteflash](exemple-ressaurance1-guide-123venteflash.png)
