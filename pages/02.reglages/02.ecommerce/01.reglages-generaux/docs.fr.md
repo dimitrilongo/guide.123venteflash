@@ -9,7 +9,6 @@ Maintenant que les paramètres généraux de votre boutique sont remplis, clique
 
 ![parametres-generaux-guide-123venteflash](parametres-generaux-guide-123venteflash.png)
 
-
 Dans cette rubrique, vous devez choisir les paramètres généraux directement liés à votre boutique comme : 
 
 - la devise : la devise est l’euro uniquement
