@@ -1,6 +1,6 @@
 ---
 title: Commandes
-media_order: 'tableau-commandes-guide-123venteflash.png,ajouter-commande-guide-123venteflash.png,ajouter-produit-commande-guide-123venteflash.png,articles-commande-guide-123venteflash.png,bouton-supprimer-commande-guide-123venteflash.png,chercher-produit-commande-guide-123venteflash.png,creer-pdf-commande-guide-123venteflash.png,modifier-statut-commande-guide-123venteflash.png,supprimer-commande-guide-123venteflash.png,tableau-commande-vide-guide-123venteflash.png'
+media_order: 'tableau-commandes-guide-123venteflash.png,ajouter-commande-guide-123venteflash.png,ajouter-produit-commande-guide-123venteflash.png,articles-commande-guide-123venteflash.png,chercher-produit-commande-guide-123venteflash.png,creer-pdf-commande-guide-123venteflash.png,modifier-statut-commande-guide-123venteflash.png,supprimer-commande-guide-123venteflash.png,tableau-commande-vide-guide-123venteflash.png,bouton-supprimer-commande-guide-123venteflash.png'
 taxonomy:
     category:
         - docs
