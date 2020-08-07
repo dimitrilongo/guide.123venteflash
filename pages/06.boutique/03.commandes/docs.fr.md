@@ -69,7 +69,7 @@ Si, pour une raison ou une autre, vous souhaitez supprimer une commande de votre
 
 Pour cela, cliquez sur la ligne concernée et entrez dans le détail. À côté du bouton de mise à jour, il y a un lien rouge qui indique : mettre à la corbeille. 
 
-![bouton-supprimer-commande-guide-123venteflash]bouton-supprimer-commande-guide-123venteflash.png)
+![bouton-supprimer-commande-guide-123venteflash](bouton-supprimer-commande-guide-123venteflash.png)
 
 En cliquant sur ce lien, votre commande change de statut dans votre tableau de bord et disparaît de l'écran principal. Cette commande est alors rangée dans la rubrique CORBEILLE. C'est dans cette rubrique que vous trouverez toutes les commandes supprimées. 
 
